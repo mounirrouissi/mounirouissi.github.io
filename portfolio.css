@@ -1,0 +1,23 @@
+#myImage{
+    width: 11%;
+    border-radius: 50%;
+}
+@media (min-width : 768px)
+{
+    .email-input{
+
+    width: 50%;
+    }
+ 
+
+}
+@media (max-width:600px){
+    #myImage{
+        width: 11%;
+        margin-left: 50%;
+        border-radius: 50%;
+    }
+}
+#monir{
+    height: 50%;
+}
